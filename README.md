@@ -10,4 +10,3 @@ This website was created to showcase myself and work/project I have done/ worked
 ## Local Development
 1. Run: `bundle install`
 2. Run Jekyll site locally: `bundle exec jekyll serve`
-
