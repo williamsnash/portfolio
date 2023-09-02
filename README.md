@@ -5,7 +5,7 @@ Built with Jekyll using the [portfolYOU](https://github.com/YoussefRaafatNasry/p
 
 
 ## Why?
-This website was created to showcase myself and work/project I have done/ worked on.
+This website was created to showcase myself and showcase work/projects I have worked on
 
 ## Local Development
 1. Run: `bundle install`
