@@ -1,24 +1,27 @@
-- title: Student, Lewis University
+- title: Lewis University
   from: Fall 2019
   to: Spring 2021
+  position: Student
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
     nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
     reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-- title: Student, Iowa State
+- title: Iowa State University
   from: Fall 2021
   to: present
+  position: Student
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
     nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
     reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-- title: Cloud Controls Part-time Student, John Deere
+- title: John Deere
   from: Fall 2021
   to: present
+  position: Cloud Controls Part-time Student
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris

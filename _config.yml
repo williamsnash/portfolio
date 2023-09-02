@@ -6,15 +6,11 @@ baseurl: "/portfolio" # Change to empty quotes if you are hosting your site at <
 repository: williamsnash/portfolio # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme: YoussefRaafatNasry/portfolYOU
 open_new_tab: false # Opens external URLs in new tab (works for posts, projects and navbar only)
+external_new_tab: true
 
 ### Plugins ###
 plugins:
   - jemoji
-  - jekyll-admin
-
-### Admin Setting ###
-jekyll_admin:
-  homepage: "pages"
 
 ### Navbar Settings ###
 nav_exclude: # The following paths are excluded from navbar
