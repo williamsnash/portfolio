@@ -1,7 +1,19 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: CI/CD
+  percentage: 90
   color: info
 
-- name: Adobe Illustrator
+- name: Git
   percentage: 90
   color: success
+
+- name: Drone/ Github Action
+  percentage: 85
+  color:
+
+- name: AWS
+  percentage: 85
+  color: warning
+
+- name: Drone/ Github Actions
+  percentage: 85
+  color: danger
