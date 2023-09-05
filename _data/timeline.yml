@@ -2,28 +2,25 @@
   from: Fall 2019
   to: Spring 2021
   position: Student
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-    nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: "Bachelor of Science, Computer Science - Concentration: Cyber Security"
 
 - title: Iowa State University
   from: Fall 2021
   to: present
   position: Student
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-    nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Bachelor of Science, Cyber Security Engineering
+  bullets:
+    - Executive Position on Iowa State Mountaineering and Club club for 2 years
+    - Participated in Capture the Flag international challenges, including Hack the Box Capture the Flag and Tenable Capture the Flag.
 
 - title: John Deere
   from: Fall 2021
   to: present
   position: Cloud Controls Part-time Student
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-    nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  bullets:
+    - Work in Cloud infrastructure of Amazon Web Services (AWS) to create tools and systems to protect John Deere's cloud environments.
+    - Implement and follow Scrum methodologies for efficient and error-free software development practices.
+    - Use continuous integration platforms like Drone and Jenkins to build and test software projects prior to roll-out.
+    - Utilize Python to build and develop cloud-based products for global partners.
+    - Continuously manage, fix bugs, and add features to cloud-based products utilized by Deere employees globally to ensure efficient operations.
+    - Implemented infrastructure as code (IaC) using CloudFormation and Terraform software to deploy Deere's cloud infrastructure for use by global partners.
