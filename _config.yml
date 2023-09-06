@@ -21,7 +21,7 @@ nav_exclude: # The following paths are excluded from navbar
 ### Author Info ###
 author:
   name: William Nash
-  image: https://raw.githubusercontent.com/williamsnash/portfolio/main/_includes/images/self.jpg # TODO
+  image: https://raw.githubusercontent.com/williamsnash/portfolio/main/assets/images/self.jpg
   # behance           : your_username
   # dribbble          : your_username
   email: will@williamnash.dev
@@ -37,7 +37,7 @@ author:
   # stackoverflow     : your_user_id
   # tumblr            : your_username.tumblr.com
   # twitch            : your_username
-  twitter: NashSWilliam
+  # twitter: NashSWilliam
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
