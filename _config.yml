@@ -17,7 +17,7 @@ nav_exclude: # The following paths are excluded from navbar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - pages/photos/Red River Gorge.md
+  - HowTo.md
 ### Author Info ###
 author:
   name: William Nash
@@ -50,6 +50,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
+  gallery:
+    output: true
+    permalink: /gallery/:name
 
 ### Disqus ###
 disqus:
@@ -75,6 +78,11 @@ defaults:
   - scope:
       path: ""
       type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "gallery"
     values:
       layout: "page"
   - scope:
