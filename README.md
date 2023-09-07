@@ -14,7 +14,8 @@ This website was created to showcase myself and showcase work/projects I have wo
   - Used to update theme to better suit my personal needs
 - GitHub Actions
   - Used to deploy the website to GitHub Pages
-
+- [Jekyll Codex](https://jekyllcodex.org/without-plugin/)
+  - Used to create the gallery index page
 ## Local Development
 1. Run: `bundle install`
 2. Run Jekyll site locally: `bundle exec jekyll serve`
