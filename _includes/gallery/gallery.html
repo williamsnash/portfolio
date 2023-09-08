@@ -23,7 +23,11 @@
         padding: 3px 0;
     }
 </style>
-
-<p class="image-gallery-index">{% for item in page.galleries %}<a href="{{ item.url }}" title="{{ item.title }}"><img
-            src="{{ item.image }}" style="width: 300px; height: 150px; object-fit: cover;" /><span>{{
-            item.title }}</span></a>{% endfor %}</p>
+<p class="image-gallery-index">
+    {% for project in site.gallery %}
+    {%- assign project_title = project.title -%}
+    {%- assign project_url = project.url -%}
+    {%- assign project_img = project.cover_img -%}
+    {% include gallery/gallery-home.html %}
+    {% endfor %}
+</p>
