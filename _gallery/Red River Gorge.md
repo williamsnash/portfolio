@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Red River Gorge, KY
+url: /gallery/red-river-gorge
+cover_img: /portfolio/assets/img/red-river-gorge/Stanton,%20KY.jpg
 ---
 # Info
 Climbing Trip to Red River Gorge, KY
