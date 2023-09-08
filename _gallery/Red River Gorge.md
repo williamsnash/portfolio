@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Red River Gorge, KY
-permalink: /gallery/red-river-gorge/
 ---
 # Info
 Climbing Trip to Red River Gorge, KY
