@@ -7,7 +7,7 @@ weight: 5
 galleries:
   - title: Red River Gorge, Kentucky
     image: /portfolio/assets/img/red-river-gorge/Stanton,%20KY.jpg
-    url: /portfolio/gallery/red-river-gorge/
+    url: /portfolio/gallery/red-river-gorge
 
 ---
 
