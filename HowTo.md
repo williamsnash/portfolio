@@ -8,24 +8,14 @@ This is a guide on how to add new pages/ posts/ projects/ galleries to the websi
 ## Projects
 
 ## Galleries
-1. In the `assets/img` folder, create a new folder for the gallery. This folder name will be used in the gallery page's front matter.
-2. Create a new file in the `pages/photos` folder.
-    1. Add the following front matter to the file:
-        ```
-        ---
-        layout: page
-        title: <Gallery Title>
-        permalink: /gallery/<what-you-want-the-url-to-be/
-        ---
-        ```
-    2. Add any details you like to the page.
-    3. Finally add
-        ```
-        {% include elements/image-gallery.html folder="/assets/img/<gallery-folder-name>" %}
-        ```
-3. In the `pages/photos/galleryIndex.md` file, in the front matter add 
+1. Create a new file in the `_galleries` folder with these front matters
+    ```YAML
+    ---
+    layout: page
+    title: Red River Gorge, KY
+    url: /gallery/red-river-gorge
+    cover_img: /assets/img/red-river-gorge/Stanton,%20KY.jpg
+    ---
     ```
-      - title: <Name>
-        image: /portfolio/assets/img/<path-to-cover-img>
-        url: /portfolio/gallery/<url-from-2.1>/
-    ```
+2. Create a folder in the `assets/img` folder and add your images to it
+3. Done!
