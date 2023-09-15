@@ -8,5 +8,4 @@ cover_img: /assets/img/red-river-gorge/Stanton,%20KY.jpg
 Climbing Trip to Red River Gorge, KY
 Date: March 2023
 
-## Photos
 {% include elements/image-gallery.html folder="/assets/img/red-river-gorge" %}
