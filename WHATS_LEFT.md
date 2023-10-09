@@ -1,0 +1,28 @@
+- [ ] Name and Contact Information
+- [ ] A welcoming/inviting front page
+  - [ ] Better picture of me
+- [ ] Career Objective (not resume’ style - your thoughts about your future goals)
+- [ ] **Senior Design Project - Each project summary must include:**
+  - Description of project
+  - Your role
+  - Skills or knowledge gained
+  - Link supporting documents
+  - Big picture contribution
+  - **A link to your 491/492 reports does not qualify as a project summary.**
+- [ ] **Minimum of 3 more projects (in addition to Sr Design) - Each project summary must include:**
+  - Description of project
+  - Your role
+  - Skills or knowledge gained
+  - Resources used
+  - **A link to a lab report does not qualify as a project summary.**
+- [x] Internship/Co-op/Technical work experience (if applicable)
+  - Duties and projects
+  - Skills learned – technical and soft
+  - Evaluations
+  - Presentations
+- [x] Resume’ – include research/published papers, awards, activities
+- [ ] General Education Reflection (see rubric)
+  - [Gen Ed Reflection Rubric](https://canvas.iastate.edu/courses/102767/files/23745783?module_item_id=5639601)
+- [ ] Cumulative Reflection (see rubric)
+  - [Cumulative Reflection Rubric](https://canvas.iastate.edu/courses/102767/files/23745693?module_item_id=5639598)
+- [x] Ethics paper from CprE 234 (CybE students)

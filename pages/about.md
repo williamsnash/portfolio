@@ -12,7 +12,7 @@ I am a Motivated, hard-working Cyber Security Engineering student at Iowa State 
 
 <details><summary>Click to View Resume</summary>
 
-<iframe src="../assets/W. Nash Resume.pdf" title="description" width="100%" height="700px"></iframe>
+<iframe src="../assets/docs/W. Nash Resume.pdf" title="description" width="100%" height="700px"></iframe>
 </details>
 
 <div class="row">
