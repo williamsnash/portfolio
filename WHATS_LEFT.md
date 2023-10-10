@@ -1,4 +1,6 @@
 - [ ] Name and Contact Information
+  - [ ] Add better contact me page
+  - [x] Name
 - [ ] A welcoming/inviting front page
   - [ ] Better picture of me
 - [ ] Career Objective (not resume’ style - your thoughts about your future goals)
