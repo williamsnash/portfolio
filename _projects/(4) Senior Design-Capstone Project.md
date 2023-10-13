@@ -7,3 +7,12 @@ external_url: # TODO Add link
 ---
 
 # About
+Our senior design project was to use a LLM (Large Language Model) like ChatGPT to assess student's understanding of material through an oral exam. An example would be if I was taking a class on the history of the United States, and I was asked to explain the Civil War, I would be able to explain it in my own words, and the LLM would be able to assess my understanding of the material based on my response. If I made a mistake the LLM would attempt to probe deeper or in a different direction to see if I truly understood the material.
+
+## Role
+I researched during the first semester of the project, and testing of the idea presented from our client was even possible.
+---
+
+# Skills/ Knowledge Gained
+
+- Using Large Language Models
