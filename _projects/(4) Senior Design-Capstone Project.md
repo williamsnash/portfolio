@@ -11,6 +11,7 @@ Our senior design project was to use a LLM (Large Language Model) like ChatGPT t
 
 ## Role
 I researched during the first semester of the project, and testing of the idea presented from our client was even possible.
+
 ---
 
 # Skills/ Knowledge Gained

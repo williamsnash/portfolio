@@ -1,5 +1,5 @@
-- [ ] Name and Contact Information
-  - [ ] Add better contact me page
+- [x] Name and Contact Information
+  - [x] Add better contact me page
   - [x] Name
 - [ ] A welcoming/inviting front page
   - [ ] Better picture of me

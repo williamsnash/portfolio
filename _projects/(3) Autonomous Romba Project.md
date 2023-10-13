@@ -11,7 +11,7 @@ We were tasked with making a rumba navigate a course without hitting any of the 
 ## Role
 I personally worked on the navigation code, allowing the rumba to see objects, I was also the driving for the final navigation aspect of the project.
 
---
+---
 # Skills/ Knowledge Gained
 
 - C programming
