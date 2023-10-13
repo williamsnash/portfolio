@@ -7,14 +7,20 @@ external_url: # TODO Add link
 ---
 
 # About
-For Iowa States' COM S 309 course, we were expected to create an App using maven, and SQL for the backend and Android Studio for the frontend.
-My group decided to create the board game Monopoly. I was one of the second members in charge of the backend, and the database.
-# Backend
-## Users
-I was in charge of creating the user class and user controller, the user controller connected to the the database and allowed for the user to be created, updated, and deleted. The user class was used as the interface between the Front-end and Backend.
+For Iowa States' COM S 309 course, we were expected to create an mobile app using java, maven, and SQL. My group decided to create the board game Monopoly where the properties were based on building on Iowa State University's campus. We also added a chat feature to allow for the players to communicate with each other within the game itself and individually.
 
-## Chat
-I was also in charge of creating a Chat feature. This was setup similar to the user with the chat controller and the chat class. What differed was that chat was using websockets to allow for real time chat. This was my first time using websockets, and I found it very interesting. I also had to create a chat service to allow for the chat to be sent to the database.
+## Role
+I was part of the backend team, and was in charge of managing the database and creating the APIs for the user and chat for the front-end to use.
+### Users
+For the user and the associated data, I was in charge of creating the user class and user controller, the user controller connected to our database and allowed for the user to be created, updated, and deleted. The user class was used as the interface between the Front-end and Backend and allowed the front-end to access the user data.
 
-## Database
-I personally had pervious experience with SQL, so I was in charge of the initial database setup and connecting the database to our backend.
+### Chat
+I was in charge of creating a Chat feature. This was setup similar to the user with the chat controller and the chat class. What differed was that chat was done using websockets, to allow for real time chat.
+
+---
+
+# Skills/ Knowledge Gained
+
+- Maven
+- SQL management
+- Unit testing with JUnit
