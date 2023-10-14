@@ -10,12 +10,12 @@ I as look toward the future I hope to find a job that will allow me to work clou
 
 # Cumulative Reflection
 <details><summary>Click to View Cumulative Reflection</summary>
-<!-- <iframe src="../assets/docs/A\ Reflective\ Journey.pdf" title="description" width="100%" height="700px"></iframe> -->
+<!-- <iframe src="../assets/docs/A_Reflective_Journey.pdf" title="description" width="100%" height="700px"></iframe> -->
 </details>
 
 # General Education Reflection
 <details><summary>Click to View General Education Reflection</summary>
-<iframe src="../assets/docs/General\ Education\ Reflection.pdf.pdf" title="description" width="100%" height="700px"></iframe>
+<iframe src="../assets/docs/General_Education_Reflection.pdf.pdf" title="description" width="100%" height="700px"></iframe>
 </details>
 
 # Ethic Paper from Cpre 234
