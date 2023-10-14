@@ -1,7 +1,7 @@
 ### Site Settings ###
 title: William Nash
 description: >-
-  I create Cloud based security applications.
+  My name is William Nash. I work to protect Cloud based systems from companies own employee's by creating and implementing security program to restrict access to only those who need it.
 baseurl: "" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository: williamsnash/williamsnash.github.com # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme: YoussefRaafatNasry/portfolYOU
