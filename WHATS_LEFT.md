@@ -10,26 +10,24 @@
   - [ ] Skills or knowledge gained
   - [ ] Link supporting documents
   - [ ] Big picture contribution
-  - [ ] **A link to your 491/492 reports does not qualify as a project summary.**
+  - **A link to your 491/492 reports does not qualify as a project summary.**
 - [ ] **Minimum of 3 more projects (in addition to Sr Design) - Each project summary must include:**
+  - **A link to a lab report does not qualify as a project summary.**
   - [ ] 1
     - [x] Description of project
     - [x] Your role
     - [x] Skills or knowledge gained
     - [ ] Resources used
-    - [ ] **A link to a lab report does not qualify as a project summary.**
   - [ ] 2
     - [x] Description of project
     - [x] Your role
     - [x] Skills or knowledge gained
     - [ ] Resources used
-    - [ ] **A link to a lab report does not qualify as a project summary.**
   - [ ] 3
     - [x] Description of project
     - [x] Your role
     - [x] Skills or knowledge gained
     - [ ] Resources used
-    - [ ] **A link to a lab report does not qualify as a project summary.**
 
 - [x] Internship/Co-op/Technical work experience (if applicable)
   - Duties and projects
