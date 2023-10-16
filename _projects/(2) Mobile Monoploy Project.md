@@ -20,7 +20,9 @@ I was in charge of creating a Chat feature. This was setup similar to the user w
 ---
 
 # Skills/ Knowledge Gained
-
 - Maven
 - SQL management
 - Unit testing with JUnit
+
+# Resources Used
+- Docs created by professor

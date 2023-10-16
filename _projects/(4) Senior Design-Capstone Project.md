@@ -18,3 +18,6 @@ I researched during the first semester of the project, and testing of the idea p
 
 - Usage Large Language Models
 - Usage of APIs
+
+# Supporting Documents
+- [Open AI API Docs](https://beta.openai.com/docs/api-reference)

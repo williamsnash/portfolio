@@ -20,3 +20,7 @@ I personally worked on the navigation code, allowing the rumba to see objects, I
 - Embedded Systems
 - Working with sensors
 - Register manipulation
+
+# Resources Used
+- Register data sheet
+- Rumba data sheet

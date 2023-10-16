@@ -4,30 +4,30 @@
 - [x] A welcoming/inviting front page
   - [x] Better picture of me
 - [x] Career Objective (not resume’ style - your thoughts about your future goals)
-- [ ] **Senior Design Project - Each project summary must include:**
+- [x] **Senior Design Project - Each project summary must include:**
   - [x] Description of project
   - [x] Your role
   - [x] Skills or knowledge gained
-  - [ ] Link supporting documents
+  - [x] Link supporting documents
   - [x] Big picture contribution
   - **A link to your 491/492 reports does not qualify as a project summary.**
-- [ ] **Minimum of 3 more projects (in addition to Sr Design) - Each project summary must include:**
+- [x] **Minimum of 3 more projects (in addition to Sr Design) - Each project summary must include:**
   - **A link to a lab report does not qualify as a project summary.**
-  - [ ] 1
+  - [x] 1 - CPU Desgin
     - [x] Description of project
     - [x] Your role
     - [x] Skills or knowledge gained
-    - [ ] Resources used
-  - [ ] 2
+    - [x] Resources used
+  - [x] 2 - Mobile Monopoly
     - [x] Description of project
     - [x] Your role
     - [x] Skills or knowledge gained
-    - [ ] Resources used
-  - [ ] 3
+    - [x] Resources used
+  - [x] 3 - Autonomous Rumba
     - [x] Description of project
     - [x] Your role
     - [x] Skills or knowledge gained
-    - [ ] Resources used
+    - [x] Resources used
 
 - [x] Internship/Co-op/Technical work experience (if applicable)
   - Duties and projects

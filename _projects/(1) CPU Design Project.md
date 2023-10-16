@@ -17,4 +17,3 @@ I was in charge of a few different parts, one was the ALU (Arithmetic Logic Unit
 
 - VHDL
 - CPU Design
-- 
