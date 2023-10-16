@@ -7,9 +7,9 @@
 - [ ] **Senior Design Project - Each project summary must include:**
   - [x] Description of project
   - [x] Your role
-  - [ ] Skills or knowledge gained
+  - [x] Skills or knowledge gained
   - [ ] Link supporting documents
-  - [ ] Big picture contribution
+  - [x] Big picture contribution
   - **A link to your 491/492 reports does not qualify as a project summary.**
 - [ ] **Minimum of 3 more projects (in addition to Sr Design) - Each project summary must include:**
   - **A link to a lab report does not qualify as a project summary.**
