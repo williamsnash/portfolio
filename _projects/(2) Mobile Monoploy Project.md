@@ -24,5 +24,5 @@ I was in charge of creating a Chat feature. This was setup similar to the user w
 - SQL management
 - Unit testing with JUnit
 
-# Resources Used
+# Supporting Documents
 - Docs created by professor

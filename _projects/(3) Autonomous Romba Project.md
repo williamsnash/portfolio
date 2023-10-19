@@ -21,6 +21,6 @@ I personally worked on the navigation code, allowing the rumba to see objects, I
 - Working with sensors
 - Register manipulation
 
-# Resources Used
+# Supporting Documents
 - Register data sheet
 - Rumba data sheet

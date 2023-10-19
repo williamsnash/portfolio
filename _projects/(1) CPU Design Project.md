@@ -17,3 +17,6 @@ I was in charge of a few different parts, one was the ALU (Arithmetic Logic Unit
 
 - VHDL
 - CPU Design
+
+# Supporting Documents
+- Docs created by professor
